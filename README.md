@@ -3,6 +3,7 @@
 </p>
 
 
+<p align="center">
 ```python
 torch.save({
     'code': [python, C++],
@@ -10,3 +11,4 @@ torch.save({
     'I love': ["Transformers!"],
 }, f="https://github.com/tsebaka")
 ```
+</p>
