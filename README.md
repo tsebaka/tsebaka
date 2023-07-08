@@ -9,3 +9,7 @@ torch.save({
     'I love': ["Transformers!"],
 }, f="https://github.com/tsebaka")
 ```
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/73/84/cd/7384cd2177beefd441b7a04d1fafe091.jpg" align="right" alt="animated" />
+</p>
