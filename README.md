@@ -11,5 +11,5 @@ torch.save({
 ```
 
 <p>
-  <img src="https://i.pinimg.com/originals/73/84/cd/7384cd2177beefd441b7a04d1fafe091.jpg" alt="animated" width="500" />
+  <img src="https://i.pinimg.com/originals/73/84/cd/7384cd2177beefd441b7a04d1fafe091.jpg" alt="animated" width="400" />
 </p>
