@@ -4,7 +4,7 @@
 
 ```python
 torch.save({
-    'code': [python],
+    'code': [python, C++],
     'tools': [pytorch-lifestream, pytorch, catboost],
     'I love': ["Transformers!"],
 }, f="https://github.com/tsebaka")
