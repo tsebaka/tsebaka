@@ -5,7 +5,7 @@
 ```python
 torch.save({
     'code': [python],
-    'tools': [numpy, pandas, sklearn, catboost, pytorch, pytorch-lifestream],
+    'tools': [pytorch-lifestream, pytorch, sklearn, catboost],
     'I love': ["Transformers!"],
 }, f="https://github.com/tsebaka")
 ```
