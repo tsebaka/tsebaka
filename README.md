@@ -9,4 +9,4 @@ torch.save({
     'I love': ["Transformers!"],
 }, f="https://github.com/tsebaka")
 ```
-<a href="#"><img src="https://komarev.com/ghpvc/?username=tsebaka&color=007EEF&label=%20"></a>
+<a href="#"><img src="https://komarev.com/ghpvc/?username=tsebaka&color=007EEF&"></a>
