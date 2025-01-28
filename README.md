@@ -1,8 +1,8 @@
 ```python
 torch.save({
-    'code': [python, С++, CUDA],
+    'code': [python, c++, cuda],
     'tools': [pytorch-lifestream, pytorch, catboost, pyspark],
-    'interest': [LLM, Classic ML, GANs, RLHF, Quantization],
-    'I love': ["Transformers!"],
+    'interest': [llm, classic ml, gans, rlhf, quantization],
+    'I love': ["transformers!"],
 }, f="https://github.com/tsebaka")
 ```
