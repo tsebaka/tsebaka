@@ -2,7 +2,6 @@
 torch.save({
     'code': [python, c++, cuda],
     'tools': [pytorch, aten],
-    'interest': [llm],
-    'i love': ["transformers!"],
+    'interest': [nlp],
 }, f="https://github.com/tsebaka")
 ```
