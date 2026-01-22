@@ -1,12 +1,10 @@
-```python
-from setuptools import setup
+"""
+NAME
+    tsebaka — low-level nlp researcher
 
-setup(
-    name="omar-zoloev",
-    version="1.3.7",
-    requires=["pytorch", "aten"],
-    extras=["cuda, c++"],
-    description="nlp, low-level, research"
-)
+SYNOPSIS
+    tsebaka [--cuda] [--torch]
 
-```
+DESCRIPTION
+    Undefined behavior encouraged.
+"""
