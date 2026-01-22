@@ -1,10 +1,10 @@
-"""
+```
 NAME
-    tsebaka — low-level nlp researcher
+    omar-zoloev low-level nlp researcher
 
 SYNOPSIS
     tsebaka [--cuda] [--torch]
 
 DESCRIPTION
     Undefined behavior encouraged.
-"""
+```
