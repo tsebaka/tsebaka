@@ -1,10 +1,1 @@
-```
-NAME
-    omar-zoloev low-level nlp researcher
-
-SYNOPSIS
-    tsebaka [--cuda] [--torch]
-
-DESCRIPTION
-    Undefined behavior encouraged.
-```
+<pre> ```python """ NAME tsebaka — low-level nlp researcher SYNOPSIS tsebaka [--cuda] [--torch] DESCRIPTION Undefined behavior encouraged. """ ``` </pre>
