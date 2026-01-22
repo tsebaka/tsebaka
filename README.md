@@ -3,7 +3,7 @@ NAME
     omar-zoloev nlp, low-level, research
 
 SYNOPSIS
-    tsebaka [--cuda] [--torch]
+    tsebaka [--torch] [--cuda] [--cpp]
 
 DESCRIPTION
     Undefined behavior encouraged.
