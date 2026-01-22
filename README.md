@@ -2,7 +2,7 @@
 from setuptools import setup
 
 setup(
-    name="tsebaka",
+    name="https://github.com/tsebaka",
     version="∞",
     requires=["pytorch", "aten"],
     extras=["cuda"],
