@@ -1,7 +1,12 @@
 ```python
-torch.save({
-    'code': [python, c++, cuda],
-    'tools': [pytorch, aten],
-    'interest': [nlp],
-}, f="https://github.com/tsebaka")
+from setuptools import setup
+
+setup(
+    name="tsebaka",
+    version="∞",
+    requires=["pytorch", "aten"],
+    extras=["cuda"],
+    description="nlp, low-level, research"
+)
+
 ```
