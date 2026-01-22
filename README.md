@@ -5,7 +5,7 @@ setup(
     name="https://github.com/tsebaka",
     version="1.3.7",
     requires=["pytorch", "aten"],
-    extras=["cuda"],
+    extras=["cuda, c++"],
     description="nlp, low-level, research"
 )
 
