@@ -1,6 +1,6 @@
 ```
 NAME
-    omar-zoloev nlp, low-level, research
+    omar-zoloev nlp researcher
 
 SYNOPSIS
     tsebaka [--torch] [--cuda] [--cpp]
