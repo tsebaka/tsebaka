@@ -6,5 +6,5 @@ SYNOPSIS
     tsebaka [--torch] [--cuda] [--cpp]
 
 DESCRIPTION
-    undefined behavior encouraged.
+    undefined behavior encouraged
 ```
