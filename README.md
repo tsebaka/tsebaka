@@ -9,7 +9,7 @@ DESCRIPTION
     undefined behavior encouraged
 
 OPTIONS
-    --kaggle kaggle.com/tsebaka
-    --steam steamcommunity.com/id/ceo_of_math
-    --scholar scholar.google.com/citations?hl=en&user=nzYz5IoAAAAJ
+    --kaggle  <url>kaggle.com/tsebaka
+    --steam   <url>steamcommunity.com/id/ceo_of_math
+    --scholar <url>scholar.google.com/citations?hl=en&user=nzYz5IoAAAAJ
 ```
