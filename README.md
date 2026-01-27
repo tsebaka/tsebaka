@@ -1,6 +1,6 @@
 ```
 NAME
-    omar-zoloev nlp researcher
+    /usr/bin/omar-zoloev-nlp-researcher
 
 DESCRIPTION
     set -o undefined-behavior encouraged
