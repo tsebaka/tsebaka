@@ -3,7 +3,7 @@ NAME
     omar-zoloev nlp researcher
 
 SYNOPSIS
-    tsebaka [--torch] [--cuda] [--cpp]
+    math-ceo [--torch] [--cuda] [--cpp]
 
 DESCRIPTION
     undefined behavior encouraged
