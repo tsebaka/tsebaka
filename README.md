@@ -3,7 +3,7 @@ NAME
     omar-zoloev nlp researcher
 
 DESCRIPTION
-    undefined behavior encouraged
+    set -o undefined-behavior encouraged
 
 SYNOPSIS
     $whoami [--torch] [--cuda] [--cpp]
