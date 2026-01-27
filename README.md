@@ -10,6 +10,6 @@ SYNOPSIS
 
 OPTIONS
     --kaggle  <url>kaggle.com/tsebaka
-    --steam   <url>steamcommunity.com/id/ceo_of_math
+    --steam   <url>steamcommunity.com/id/mxthceo
     --scholar <url>scholar.google.com/citations?user=nzYz5IoAAAAJ
 ```
