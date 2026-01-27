@@ -1,12 +1,12 @@
 ```
 NAME
-    /usr/bin/omar-zoloev-nlp-researcher
-
-SYNOPSIS
-    $whoami [--torch] [--cuda] [--cpp]
+    /usr/local/bin/omar-zoloev-nlp-researcher
 
 DESCRIPTION
     set -o undefined-behavior encouraged
+
+SYNOPSIS
+    $whoami [--torch] [--cuda] [--cpp]
 
 OPTIONS
     --kaggle  <url>kaggle.com/tsebaka
