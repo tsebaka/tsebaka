@@ -2,11 +2,11 @@
 NAME
     omar-zoloev nlp researcher
 
-SYNOPSIS
-    math-ceo [--torch] [--cuda] [--cpp]
-
 DESCRIPTION
     undefined behavior encouraged
+
+SYNOPSIS
+    math-ceo [--torch] [--cuda] [--cpp]
 
 OPTIONS
     --kaggle  <url>kaggle.com/tsebaka
