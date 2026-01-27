@@ -6,7 +6,7 @@ DESCRIPTION
     undefined behavior encouraged
 
 SYNOPSIS
-    math-ceo [--torch] [--cuda] [--cpp]
+    $whoami [--torch] [--cuda] [--cpp]
 
 OPTIONS
     --kaggle  <url>kaggle.com/tsebaka
