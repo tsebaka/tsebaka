@@ -1,3 +1,3 @@
 ```
-    undefined behavior
+undefined behavior
 ```
