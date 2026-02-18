@@ -1,7 +1,4 @@
 ```
-NAME
-    /usr/local/bin/omar-zoloev-nlp-researcher
-
 DESCRIPTION
     set -o undefined-behavior encouraged
 
